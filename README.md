@@ -2,7 +2,7 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pascal-Bliem/error-control-statistical-tests/master?filepath=Error_control_in_statistics.ipynb)
 
-This project is a discussion on proper error rate control in statistical hypothesis significance testing. Understanding these aspects is crucial to ensure that the results of statistical inference are actually meaningful and that the potential error does not get bigger than what the experimenter deems as acceptable. I simulated hundreds of thousands of statistical tests to show the results are distributed both if there is a real effect to be observed and if there is none. The results of these simulations are displayed in interactive visualizations in which you can change the parameters to see how errors can be  inflated in certain situations and how they can be controlled.
+This project is a discussion on proper error rate control in statistical hypothesis significance testing. Understanding these aspects is crucial to ensure that the results of statistical inference are actually meaningful and that the potential error does not get bigger than what the experimenter deems as acceptable. I simulated hundreds of thousands of statistical tests to show how the results are distributed both if there is a real effect to be observed and if there is none. The results of these simulations are displayed in interactive visualizations in which you can change the parameters to see how errors can be  inflated in certain situations and how they can be controlled.
 
 <p align="center">
 <img src="https://chemicalstatistician.files.wordpress.com/2014/05/pregnant.jpg" alt="errors" height="300"/>  
