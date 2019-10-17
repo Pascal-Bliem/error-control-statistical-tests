@@ -23,3 +23,5 @@ If you **do not** have Python and Jupyter installed on your computer or you don'
 </p>
 
 If you **do** have Python, Jupyter, and all [dependencies](./environment.yml) installed, you can just download the repository and run it on your local machine. The main project is contained in a [Jupyter notebook](./Error_control_in_statistics.ipynb) but you will also need the utility scripts in this repo, and the already simulated data in the [./data](./data) directory may come in handy.
+
+I hope you'll enjoy reading it, thanks a lot for your interest!
